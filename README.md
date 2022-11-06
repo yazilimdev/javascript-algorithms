@@ -303,4 +303,4 @@ Altta Big O notations ve farklı input boyutlarına karşın yapılmış perform
 
 Bu projeyi buradan destekleyebilirsiniz ❤️️ [GitHub](https://github.com/sponsors/erensenell) 
 
-> ℹ️ Tüm Projelerime [burdan](https://erensenel.epizy.com/) ulaşabilirsiniz.
+> ℹ️ Tüm Projelerime [burdan](https://linktr.ee/erensenel/) ulaşabilirsiniz.
